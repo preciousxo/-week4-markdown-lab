@@ -10,3 +10,5 @@
 1. First step
 2. Second step
 [Visit GitHub](https://github.com)
+## Partner's contribution 
+- Added my name TJ and a new bullet point
